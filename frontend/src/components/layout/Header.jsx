@@ -14,7 +14,7 @@ export default function Header() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 lg:px-8">
         <Link to="/" className="flex items-center gap-3">
           <img
-            src={IIT_ISM_LOGO_URL}
+            src="/IIt-logo.png"
             alt="IIT (ISM) Dhanbad logo"
             className="h-12 w-12 object-contain"
           />

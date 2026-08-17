@@ -49,7 +49,7 @@ export default function Hero() {
                 <p className="text-xs font-black uppercase tracking-[0.2em] text-slate-400">ISM identity</p>
                 <h2 className="mt-2 text-3xl font-black">Beyond the campus.</h2>
               </div>
-              <img src={IIT_ISM_LOGO_URL} alt="" className="h-16 w-16 object-contain" />
+              <img src="/IIt-logo.png" alt="" className="h-16 w-16 object-contain" />
             </div>
 
             <div className="mt-8 space-y-3">
