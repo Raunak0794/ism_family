@@ -55,8 +55,6 @@ Create `frontend/.env`:
 VITE_API_URL=http://localhost:5000/api
 ```
 
-> Do not commit `.env` files or real database/admin credentials to GitHub.
-
 ## Database Setup
 
 1. Install PostgreSQL.
@@ -87,7 +85,7 @@ http://localhost:5173/admin
 Enter the same secret configured as:
 
 ```env
-ADMIN_SECRET=your_admin_secret
+ADMIN_SECRET=Raunak5912
 ```
 
 The admin dashboard allows you to view registrations and approve or reject users.
