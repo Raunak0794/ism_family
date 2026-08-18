@@ -85,7 +85,7 @@ http://localhost:5173/admin
 Enter the same secret configured as:
 
 ```env
-ADMIN_SECRET=Raunak5912
+ADMIN_SECRET=Raunak@5912
 ```
 
 The admin dashboard allows you to view registrations and approve or reject users.
